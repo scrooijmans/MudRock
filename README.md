@@ -1,5 +1,5 @@
 # MudRock
-MudRock is a cutting-edge C++ project designed for geoscientific analysis and visualization. This project showcases the power of combining custom libraries with external scientific computing libraries, all integrated within a Qt GUI framework. It leverages the capabilities of Eigen, Armadillo, and Boost to perform complex mathematical and statistical operations, making it an ideal tool for researchers, engineers, and developers working in the fields of geology, geophysics, and environmental science.
+MudRock is a C++ project designed for geoscientific analysis and visualization. This project showcases the power of combining custom libraries with external scientific computing libraries, all integrated within a Qt GUI framework. It leverages the capabilities of Eigen, Armadillo, and Boost to perform complex mathematical and statistical operations, making it an ideal tool for researchers, engineers, and developers working in the fields of geology, geophysics, and environmental science.
 
 ## Features
 
