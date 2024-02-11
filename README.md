@@ -61,5 +61,4 @@ MudRock is licensed under the MIT License. See the LICENSE file for more details
 
 - Thanks to the developers of Eigen, Armadillo, and Boost for providing such powerful tools for scientific computing.
 - Appreciation to the Qt community for their excellent GUI framework.
-```
 
