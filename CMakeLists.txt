@@ -38,7 +38,10 @@ else()
 endif()
 
 # Add Eigen
-set(EIGEN_ROOT_DIR "/usr/local/include/eigen/3.4.0_1/include/eigen3/")
+set(CMAKE_INCLUDE_PATH "/usr/local/include/")
+set(EIGEN_ROOT_DIR "${CMAKE_INCLUDE_PATH}eigen/3.4.0_1/include/eigen3/")
+
+message("EIGEN_ROOT_DIR: ${EIGEN_ROOT_DIR}")
 
 # add_library( armadillo ${PROJECT_SOURCE_DIR}/src/wrapper1.cpp ${PROJECT_SOURCE_DIR}/src/wrapper2.cpp )
 add_library(MudRock STATIC
